@@ -1,0 +1,72 @@
+
+*{
+    box-sizing: border-box;
+    background-color: black;
+      
+}
+.aspect{
+    margin:100px;
+
+}
+.div1{
+    background-color: hsl(244, 38%, 16%);
+    margin-top: 10em;
+
+    margin-right: 0em;
+    margin-left: 0em;
+    margin-bottom: 10em;
+    width: 50%;
+    padding: 125px; 
+    float: left;
+    height: auto;
+      }
+  
+
+   .p2{
+      float: left;
+      width: 33.33%;
+      background-color: hsl(244, 38%, 16%);
+      text-transform: uppercase;
+      font-family: 'Lexend Deca', sans-serif;
+  }
+  #p3{
+    background-color: hsl(244, 38%, 16%);
+      font-size: 2em;
+      font-weight: bold; 
+      text-transform: uppercase;
+      font-family: 'Lexend Deca', sans-serif;
+
+
+  }
+.insights{
+    color: hsl(277, 64%, 61%);
+    background-color: hsl(244, 38%, 16%);
+}
+section.part1{
+    background-color: hsl(244, 38%, 16%);
+    color: white;
+    margin-bottom: 1em;
+    font-weight: bold;
+    font-family:'Inter', sans-serif;
+    font-size: 3em;
+}
+section.part2{
+    background-color: hsl(244, 38%, 16%);
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 1.3em;
+    margin-bottom: 7.5em;}
+section.part3{
+    
+    color: hsla(0, 0%, 100%, 0.6); 
+    background-color: hsl(244, 38%, 16%);}
+
+.div2{
+    background-color:purple;
+    margin-top: 10em;
+    margin-right: 0em;
+    margin-left: 0em;
+    margin-bottom: 10em;
+    width: auto;
+    padding: 125px; 
+    float: left;
+    height: 100%;
